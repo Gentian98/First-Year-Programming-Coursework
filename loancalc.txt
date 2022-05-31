@@ -1,0 +1,1009 @@
+
+ Initial salary £29000.00 
+
+ Final salary £94058.48 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £313308.53 
+
+ Total interest  £393694.50 
+
+ Total paid £80385.97
+------------------------------------
+ Initial salary £30000.00 
+
+ Final salary £97301.94 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £310345.31 
+
+ Total interest  £395837.72 
+
+ Total paid £85492.41
+------------------------------------
+ Initial salary £31000.00 
+
+ Final salary £100545.33 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £306638.72 
+
+ Total interest  £397236.25 
+
+ Total paid £90597.53
+------------------------------------
+ Initial salary £32000.00 
+
+ Final salary £103788.72 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £302227.09 
+
+ Total interest  £397930.00 
+
+ Total paid £95702.91
+------------------------------------
+ Initial salary £33000.00 
+
+ Final salary £107032.13 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £297153.25 
+
+ Total interest  £397962.38 
+
+ Total paid £100809.13
+------------------------------------
+ Initial salary £34000.00 
+
+ Final salary £110275.50 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £291284.19 
+
+ Total interest  £397198.34 
+
+ Total paid £105914.16
+------------------------------------
+ Initial salary £35000.00 
+
+ Final salary £113518.87 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £284695.00 
+
+ Total interest  £395715.16 
+
+ Total paid £111020.16
+------------------------------------
+ Initial salary £36000.00 
+
+ Final salary £116762.32 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £277547.78 
+
+ Total interest  £393673.63 
+
+ Total paid £116125.84
+------------------------------------
+ Initial salary £37000.00 
+
+ Final salary £120005.69 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £269888.56 
+
+ Total interest  £391120.00 
+
+ Total paid £121231.44
+------------------------------------
+ Initial salary £38000.00 
+
+ Final salary £123249.11 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £261354.66 
+
+ Total interest  £387691.94 
+
+ Total paid £126337.28
+------------------------------------
+ Initial salary £39000.00 
+
+ Final salary £126492.49 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £252361.22 
+
+ Total interest  £383803.56 
+
+ Total paid £131442.34
+------------------------------------
+ Initial salary £40000.00 
+
+ Final salary £129735.90 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £242960.64 
+
+ Total interest  £379508.38 
+
+ Total paid £136547.73
+------------------------------------
+ Initial salary £41000.00 
+
+ Final salary £132979.31 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £232699.98 
+
+ Total interest  £374353.59 
+
+ Total paid £141653.61
+------------------------------------
+ Initial salary £42000.00 
+
+ Final salary £136222.69 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £222100.13 
+
+ Total interest  £368860.00 
+
+ Total paid £146759.88
+------------------------------------
+ Initial salary £43000.00 
+
+ Final salary £139466.11 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £210987.41 
+
+ Total interest  £362852.81 
+
+ Total paid £151865.41
+------------------------------------
+ Initial salary £44000.00 
+
+ Final salary £142709.47 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £199262.64 
+
+ Total interest  £356233.34 
+
+ Total paid £156970.70
+------------------------------------
+ Initial salary £45000.00 
+
+ Final salary £145952.88 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £159216.92 
+
+ Total interest  £321293.16 
+
+ Total paid £162076.23
+------------------------------------
+ Initial salary £46000.00 
+
+ Final salary £149196.25 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £174677.86 
+
+ Total interest  £341859.78 
+
+ Total paid £167181.92
+------------------------------------
+ Initial salary £47000.00 
+
+ Final salary £152439.67 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £162041.98 
+
+ Total interest  £334329.69 
+
+ Total paid £172287.70
+------------------------------------
+ Initial salary £48000.00 
+
+ Final salary £155683.08 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £149407.36 
+
+ Total interest  £326800.69 
+
+ Total paid £177393.33
+------------------------------------
+ Initial salary £49000.00 
+
+ Final salary £158926.50 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £136774.47 
+
+ Total interest  £319272.94 
+
+ Total paid £182498.47
+------------------------------------
+ Initial salary £50000.00 
+
+ Final salary £162169.88 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £124137.62 
+
+ Total interest  £311742.00 
+
+ Total paid £187604.38
+------------------------------------
+ Initial salary £51000.00 
+
+ Final salary £165413.28 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £111502.71 
+
+ Total interest  £304212.91 
+
+ Total paid £192710.19
+------------------------------------
+ Initial salary £52000.00 
+
+ Final salary £168656.67 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £98868.27 
+
+ Total interest  £296683.97 
+
+ Total paid £197815.69
+------------------------------------
+ Initial salary £53000.00 
+
+ Final salary £171900.06 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £86233.20 
+
+ Total interest  £289154.59 
+
+ Total paid £202921.41
+------------------------------------
+ Initial salary £54000.00 
+
+ Final salary £175143.45 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £73598.80 
+
+ Total interest  £281625.78 
+
+ Total paid £208026.97
+------------------------------------
+ Initial salary £55000.00 
+
+ Final salary £178386.86 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £60963.61 
+
+ Total interest  £274096.06 
+
+ Total paid £213132.45
+------------------------------------
+ Initial salary £56000.00 
+
+ Final salary £181630.27 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £48328.63 
+
+ Total interest  £266566.50 
+
+ Total paid £218237.88
+------------------------------------
+ Initial salary £57000.00 
+
+ Final salary £184873.66 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £35693.74 
+
+ Total interest  £259037.41 
+
+ Total paid £223343.67
+------------------------------------
+ Initial salary £58000.00 
+
+ Final salary £188116.97 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £23058.85 
+
+ Total interest  £251508.33 
+
+ Total paid £228449.47
+------------------------------------
+ Initial salary £59000.00 
+
+ Final salary £191360.48 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2055 
+
+ Closing balance £10423.48 
+
+ Total interest  £243978.36 
+
+ Total paid £233554.88
+------------------------------------
+ Initial salary £60000.00 
+
+ Final salary £194603.88 
+
+ Total loan £71800.00 
+
+ Last payment date  3 / 2055 
+
+ Closing balance £0.00 
+
+ Total interest  £236454.47 
+
+ Total paid £236454.47
+------------------------------------
+ Initial salary £61000.00 
+
+ Final salary £190237.72 
+
+ Total loan £71800.00 
+
+ Last payment date  5 / 2054 
+
+ Closing balance £0.00 
+
+ Total interest  £229322.81 
+
+ Total paid £229322.81
+------------------------------------
+ Initial salary £62000.00 
+
+ Final salary £185919.63 
+
+ Total loan £71800.00 
+
+ Last payment date  8 / 2053 
+
+ Closing balance £0.00 
+
+ Total interest  £222770.86 
+
+ Total paid £222770.86
+------------------------------------
+ Initial salary £63000.00 
+
+ Final salary £181652.23 
+
+ Total loan £71800.00 
+
+ Last payment date  11 / 2052 
+
+ Closing balance £0.00 
+
+ Total interest  £216736.25 
+
+ Total paid £216736.25
+------------------------------------
+ Initial salary £64000.00 
+
+ Final salary £184535.58 
+
+ Total loan £71800.00 
+
+ Last payment date  3 / 2052 
+
+ Closing balance £0.00 
+
+ Total interest  £211162.05 
+
+ Total paid £211162.05
+------------------------------------
+ Initial salary £65000.00 
+
+ Final salary £180210.53 
+
+ Total loan £71800.00 
+
+ Last payment date  7 / 2051 
+
+ Closing balance £0.00 
+
+ Total interest  £205999.06 
+
+ Total paid £205999.06
+------------------------------------
+ Initial salary £66000.00 
+
+ Final salary £175945.22 
+
+ Total loan £71800.00 
+
+ Last payment date  11 / 2050 
+
+ Closing balance £0.00 
+
+ Total interest  £201207.14 
+
+ Total paid £201207.14
+------------------------------------
+ Initial salary £67000.00 
+
+ Final salary £178611.02 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2050 
+
+ Closing balance £0.00 
+
+ Total interest  £196748.31 
+
+ Total paid £196748.31
+------------------------------------
+ Initial salary £68000.00 
+
+ Final salary £174304.66 
+
+ Total loan £71800.00 
+
+ Last payment date  9 / 2049 
+
+ Closing balance £0.00 
+
+ Total interest  £192590.14 
+
+ Total paid £192590.14
+------------------------------------
+ Initial salary £69000.00 
+
+ Final salary £176867.98 
+
+ Total loan £71800.00 
+
+ Last payment date  2 / 2049 
+
+ Closing balance £0.00 
+
+ Total interest  £188706.52 
+
+ Total paid £188706.52
+------------------------------------
+ Initial salary £70000.00 
+
+ Final salary £172530.03 
+
+ Total loan £71800.00 
+
+ Last payment date  8 / 2048 
+
+ Closing balance £0.00 
+
+ Total interest  £185069.92 
+
+ Total paid £185069.92
+------------------------------------
+ Initial salary £71000.00 
+
+ Final salary £174994.80 
+
+ Total loan £71800.00 
+
+ Last payment date  2 / 2048 
+
+ Closing balance £0.00 
+
+ Total interest  £181659.67 
+
+ Total paid £181659.67
+------------------------------------
+ Initial salary £72000.00 
+
+ Final salary £170634.17 
+
+ Total loan £71800.00 
+
+ Last payment date  8 / 2047 
+
+ Closing balance £0.00 
+
+ Total interest  £178456.53 
+
+ Total paid £178456.53
+------------------------------------
+ Initial salary £73000.00 
+
+ Final salary £173004.08 
+
+ Total loan £71800.00 
+
+ Last payment date  2 / 2047 
+
+ Closing balance £0.00 
+
+ Total interest  £175443.17 
+
+ Total paid £175443.17
+------------------------------------
+ Initial salary £74000.00 
+
+ Final salary £168628.81 
+
+ Total loan £71800.00 
+
+ Last payment date  9 / 2046 
+
+ Closing balance £0.00 
+
+ Total interest  £172601.77 
+
+ Total paid £172601.77
+------------------------------------
+ Initial salary £75000.00 
+
+ Final salary £170907.61 
+
+ Total loan £71800.00 
+
+ Last payment date  3 / 2046 
+
+ Closing balance £0.00 
+
+ Total interest  £169921.27 
+
+ Total paid £169921.27
+------------------------------------
+ Initial salary £76000.00 
+
+ Final salary £166525.38 
+
+ Total loan £71800.00 
+
+ Last payment date  10 / 2045 
+
+ Closing balance £0.00 
+
+ Total interest  £167387.53 
+
+ Total paid £167387.53
+------------------------------------
+ Initial salary £77000.00 
+
+ Final salary £168716.47 
+
+ Total loan £71800.00 
+
+ Last payment date  6 / 2045 
+
+ Closing balance £0.00 
+
+ Total interest  £164990.22 
+
+ Total paid £164990.22
+------------------------------------
+ Initial salary £78000.00 
+
+ Final salary £164334.23 
+
+ Total loan £71800.00 
+
+ Last payment date  13 / 2044 
+
+ Closing balance £0.00 
+
+ Total interest  £162718.20 
+
+ Total paid £162718.20
+------------------------------------
+ Initial salary £79000.00 
+
+ Final salary £166441.06 
+
+ Total loan £71800.00 
+
+ Last payment date  8 / 2044 
+
+ Closing balance £0.00 
+
+ Total interest  £160561.98 
+
+ Total paid £160561.98
+------------------------------------
+ Initial salary £80000.00 
+
+ Final salary £168547.92 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2044 
+
+ Closing balance £0.00 
+
+ Total interest  £158515.41 
+
+ Total paid £158515.41
+------------------------------------
+ Initial salary £81000.00 
+
+ Final salary £164091.14 
+
+ Total loan £71800.00 
+
+ Last payment date  12 / 2043 
+
+ Closing balance £0.00 
+
+ Total interest  £156567.47 
+
+ Total paid £156567.47
+------------------------------------
+ Initial salary £82000.00 
+
+ Final salary £166116.97 
+
+ Total loan £71800.00 
+
+ Last payment date  8 / 2043 
+
+ Closing balance £0.00 
+
+ Total interest  £154713.86 
+
+ Total paid £154713.86
+------------------------------------
+ Initial salary £83000.00 
+
+ Final salary £168142.77 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2043 
+
+ Closing balance £0.00 
+
+ Total interest  £152947.67 
+
+ Total paid £152947.67
+------------------------------------
+ Initial salary £84000.00 
+
+ Final salary £163623.64 
+
+ Total loan £71800.00 
+
+ Last payment date  12 / 2042 
+
+ Closing balance £0.00 
+
+ Total interest  £151261.66 
+
+ Total paid £151261.66
+------------------------------------
+ Initial salary £85000.00 
+
+ Final salary £165571.53 
+
+ Total loan £71800.00 
+
+ Last payment date  9 / 2042 
+
+ Closing balance £0.00 
+
+ Total interest  £149652.42 
+
+ Total paid £149652.42
+------------------------------------
+ Initial salary £86000.00 
+
+ Final salary £167519.45 
+
+ Total loan £71800.00 
+
+ Last payment date  5 / 2042 
+
+ Closing balance £0.00 
+
+ Total interest  £148115.27 
+
+ Total paid £148115.27
+------------------------------------
+ Initial salary £87000.00 
+
+ Final salary £169467.33 
+
+ Total loan £71800.00 
+
+ Last payment date  2 / 2042 
+
+ Closing balance £0.00 
+
+ Total interest  £146643.72 
+
+ Total paid £146643.72
+------------------------------------
+ Initial salary £88000.00 
+
+ Final salary £164822.31 
+
+ Total loan £71800.00 
+
+ Last payment date  10 / 2041 
+
+ Closing balance £0.00 
+
+ Total interest  £145234.81 
+
+ Total paid £145234.81
+------------------------------------
+ Initial salary £89000.00 
+
+ Final salary £166695.31 
+
+ Total loan £71800.00 
+
+ Last payment date  7 / 2041 
+
+ Closing balance £0.00 
+
+ Total interest  £143885.70 
+
+ Total paid £143885.70
+------------------------------------
+ Initial salary £90000.00 
+
+ Final salary £168568.30 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2041 
+
+ Closing balance £0.00 
+
+ Total interest  £142591.86 
+
+ Total paid £142591.86
+------------------------------------
+ Initial salary £91000.00 
+
+ Final salary £163885.86 
+
+ Total loan £71800.00 
+
+ Last payment date  13 / 2040 
+
+ Closing balance £0.00 
+
+ Total interest  £141349.39 
+
+ Total paid £141349.39
+------------------------------------
+ Initial salary £92000.00 
+
+ Final salary £165686.80 
+
+ Total loan £71800.00 
+
+ Last payment date  10 / 2040 
+
+ Closing balance £0.00 
+
+ Total interest  £140156.03 
+
+ Total paid £140156.03
+------------------------------------
+ Initial salary £93000.00 
+
+ Final salary £167487.75 
+
+ Total loan £71800.00 
+
+ Last payment date  7 / 2040 
+
+ Closing balance £0.00 
+
+ Total interest  £139009.80 
+
+ Total paid £139009.80
+------------------------------------
+ Initial salary £94000.00 
+
+ Final salary £169288.69 
+
+ Total loan £71800.00 
+
+ Last payment date  5 / 2040 
+
+ Closing balance £0.00 
+
+ Total interest  £137907.11 
+
+ Total paid £137907.11
+------------------------------------
+ Initial salary £95000.00 
+
+ Final salary £171089.61 
+
+ Total loan £71800.00 
+
+ Last payment date  2 / 2040 
+
+ Closing balance £0.00 
+
+ Total interest  £136846.17 
+
+ Total paid £136846.17
+------------------------------------
+ Initial salary £96000.00 
+
+ Final salary £166240.94 
+
+ Total loan £71800.00 
+
+ Last payment date  11 / 2039 
+
+ Closing balance £0.00 
+
+ Total interest  £135823.72 
+
+ Total paid £135823.72
+------------------------------------
+ Initial salary £97000.00 
+
+ Final salary £167972.61 
+
+ Total loan £71800.00 
+
+ Last payment date  9 / 2039 
+
+ Closing balance £0.00 
+
+ Total interest  £134838.86 
+
+ Total paid £134838.86
+------------------------------------
+ Initial salary £98000.00 
+
+ Final salary £169704.30 
+
+ Total loan £71800.00 
+
+ Last payment date  6 / 2039 
+
+ Closing balance £0.00 
+
+ Total interest  £133889.64 
+
+ Total paid £133889.64
+------------------------------------
+ Initial salary £99000.00 
+
+ Final salary £171435.95 
+
+ Total loan £71800.00 
+
+ Last payment date  4 / 2039 
+
+ Closing balance £0.00 
+
+ Total interest  £132973.78 
+
+ Total paid £132973.78
+------------------------------------
+ Initial salary £100000.00 
+
+ Final salary £173167.66 
+
+ Total loan £71800.00 
+
+ Last payment date  2 / 2039 
+
+ Closing balance £0.00 
+
+ Total interest  £132088.42 
+
+ Total paid £132088.42
+------------------------------------
